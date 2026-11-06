@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\bin\Debug\net10.0\IPHONE-13.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\bin\Debug\net10.0\IPHONE-13.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\bin\Debug\net10.0\IPHONE-13.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\bin\Debug\net10.0\IPHONE-13.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\bin\Debug\net10.0\IPHONE-13.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\refint\IPHONE-13.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\IPHONE-13.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\IPHONE-13\obj\Debug\net10.0\ref\IPHONE-13.dll
